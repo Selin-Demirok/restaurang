@@ -7,4 +7,4 @@ Man beställer mat från den här websidan
  Man kan även se menun och os.v
 
 <h3> Screen view </h3>
- [](restaurang.gif)
+ ![](restaurang.gif)
